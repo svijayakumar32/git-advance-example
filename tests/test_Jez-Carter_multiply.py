@@ -1,4 +1,4 @@
-from pythoncalculator.Jez-Carter_multiply import multiply
+from pythoncalculator.JezCarter_multiply import multiply
 
 
 def test_multiply():
